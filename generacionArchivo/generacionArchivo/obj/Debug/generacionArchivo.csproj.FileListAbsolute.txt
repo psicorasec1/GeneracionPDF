@@ -1,0 +1,13 @@
+c:\users\test\documents\visual studio 2015\Projects\generacionArchivo\generacionArchivo\bin\Debug\generacionArchivo.exe.config
+c:\users\test\documents\visual studio 2015\Projects\generacionArchivo\generacionArchivo\bin\Debug\generacionArchivo.exe
+c:\users\test\documents\visual studio 2015\Projects\generacionArchivo\generacionArchivo\bin\Debug\generacionArchivo.pdb
+c:\users\test\documents\visual studio 2015\Projects\generacionArchivo\generacionArchivo\obj\Debug\generacionArchivo.csprojResolveAssemblyReference.cache
+c:\users\test\documents\visual studio 2015\Projects\generacionArchivo\generacionArchivo\obj\Debug\generacionArchivo.Form1.resources
+c:\users\test\documents\visual studio 2015\Projects\generacionArchivo\generacionArchivo\obj\Debug\generacionArchivo.Properties.Resources.resources
+c:\users\test\documents\visual studio 2015\Projects\generacionArchivo\generacionArchivo\obj\Debug\generacionArchivo.csproj.GenerateResource.Cache
+c:\users\test\documents\visual studio 2015\Projects\generacionArchivo\generacionArchivo\obj\Debug\generacionArchivo.exe
+c:\users\test\documents\visual studio 2015\Projects\generacionArchivo\generacionArchivo\obj\Debug\generacionArchivo.pdb
+c:\users\test\documents\visual studio 2015\Projects\generacionArchivo\generacionArchivo\bin\Debug\MySql.Data.dll
+c:\users\test\documents\visual studio 2015\Projects\generacionArchivo\generacionArchivo\bin\Debug\BouncyCastle.Crypto.dll
+c:\users\test\documents\visual studio 2015\Projects\generacionArchivo\generacionArchivo\bin\Debug\itextsharp.dll
+c:\users\test\documents\visual studio 2015\Projects\generacionArchivo\generacionArchivo\bin\Debug\itextsharp.xml
